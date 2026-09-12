@@ -67,3 +67,8 @@ The target variable for the regression model is:
 
 ```text
 charges
+
+
+## Live Dashboard
+
+[Open the Medical Insurance Cost Analysis Dashboard](https://statististical-methods-2y5qggsegps3h3cahduzdw.streamlit.app/)
